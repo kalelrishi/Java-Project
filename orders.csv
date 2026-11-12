@@ -1,0 +1,19 @@
+OrderID,CustomerName,ProductName,Category,Quantity,UnitSellingPrice,UnitCostPrice,OrderDate
+1001,Aarav Sharma,Laptop,Electronics,1,55000,44000,2025-01-05
+1002,Priya Reddy,Wireless Mouse,Accessories,3,800,450,2025-01-06
+1003,Rahul Verma,Office Chair,Furniture,2,6500,4800,2025-01-08
+1004,Sneha Iyer,Smartphone,Electronics,1,28000,23500,2025-01-10
+1005,Aarav Sharma,Keyboard,Accessories,2,1500,900,2025-01-12
+1006,Kiran Patel,Study Desk,Furniture,1,9000,6500,2025-01-14
+1007,Divya Nair,Headphones,Accessories,4,2500,1500,2025-01-15
+1008,Priya Reddy,Laptop,Electronics,1,55000,44000,2025-01-18
+1009,Manoj Kumar,Notebook Pack,Stationery,10,250,120,2025-01-20
+1010,Sneha Iyer,Office Chair,Furniture,1,6500,4800,2025-01-22
+1011,Rahul Verma,Smartphone,Electronics,2,28000,23500,2025-01-25
+1012,Kiran Patel,Pen Set,Stationery,15,120,60,2025-01-27
+1013,Divya Nair,Wireless Mouse,Accessories,2,800,450,2025-01-29
+1014,Manoj Kumar,Study Desk,Furniture,2,9000,6500,2025-02-01
+1015,Aarav Sharma,Headphones,Accessories,1,2500,1500,2025-02-03
+1016,Priya Reddy,Notebook Pack,Stationery,6,250,120,2025-02-05
+1017,Sneha Iyer,Laptop,Electronics,1,55000,44000,2025-02-08
+1018,Rahul Verma,Keyboard,Accessories,3,1500,900,2025-02-10
